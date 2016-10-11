@@ -1,0 +1,13 @@
+0_counting_nucleotides/dna
+1_transcribing_dna_to_rna/rna
+2_complementing_a_strand_of_dna/revc
+3_rabbits_and_recurrence_relations/fib
+4_computing_gc_content/gc
+5_counting_point_mutations/hamm
+6_mendels_first_law/iprb
+7_finding_a_motif_in_dna/subs
+8_consensus_and_profile/cons
+9_translating_rna_into_protein/prot
+10_mortal_fibonacci_rabbits/fibd
+11_overlap_graphs
+generator/gen
