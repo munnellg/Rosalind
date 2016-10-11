@@ -12,7 +12,7 @@ string will incorporate protein strings along with DNA strings and RNA strings.
 The RNA codon table dictates the details regarding the encoding of specific
 codons into the amino acid alphabet.
 
-
+|-----------|-----------|-----------|------|
 |UUC F      |CUC L      |AUC I      |GUC V |
 |UUU F      |CUU L      |AUU I      |GUU V |
 |UUG L      |CUG L      |AUG M      |GUG V |
